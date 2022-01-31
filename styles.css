@@ -52,6 +52,7 @@ p {
   font-size: 18px;
   line-height: 1.5;
   text-align: center;
+  font-family: 'Poppins', sans-serif;
 }
 .homepage-link {
   color: var(--primary-color);
@@ -89,11 +90,19 @@ h3 {
   opacity: 0.7;
 }
 h1,
-h2,
-h3 {
+h2
+ {
   text-align: center;
   margin: 0;
+  font-family: 'Playfair Display', serif;
 }
 h4, h5, h6 {
   font-size: 48px;
+   font-family: 'Playfair Display', serif;
+  
+}
+h3 {
+  text-align: center;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
 }
