@@ -10,6 +10,9 @@
   text-decoration: none;
   text-transform: capitalize;
 }
+.navigation-links a:hover {
+  color: #EDDCD2;
+}
 :root {
   --primary-color: #cb997e;
   --secondary-color: #ddbea9;
@@ -26,6 +29,12 @@
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
   color: white;
+}
+.launch-app:hover{
+  color: #EDDCD2;
+}
+.contact-link:hover {
+  color: #EDDCD2;
 }
 .contact-link {
   background: var(--primary-color);
@@ -50,7 +59,7 @@ p {
   padding: 20px;
   border-radius: 4px;
   font-size: 18px;
-  line-height: 1.5;
+  line-height: 30px;
   text-align: center;
   font-family: 'Poppins', sans-serif;
 }
@@ -112,4 +121,5 @@ h1 {
 }
 h2 {
   font-family: 'Poppins', sans-serif;
+  font-weight: bold;
 }
