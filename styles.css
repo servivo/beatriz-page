@@ -84,6 +84,7 @@ h1 {
 }
 h2 {
   font-size: 48px;
+  
 }
 h3 {
   font-size: 24px;
@@ -94,7 +95,7 @@ h2
  {
   text-align: center;
   margin: 0;
-  font-family: 'Playfair Display', serif;
+ 
 }
 h4, h5, h6 {
   font-size: 48px;
@@ -104,5 +105,11 @@ h4, h5, h6 {
 h3 {
   text-align: center;
   margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+h1 {
+  font-family: 'Playfair Display', serif;
+}
+h2 {
   font-family: 'Poppins', sans-serif;
 }
