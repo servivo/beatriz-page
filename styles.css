@@ -29,6 +29,7 @@
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
   color: white;
+  
 }
 .launch-app:hover{
   color: #EDDCD2;
@@ -122,4 +123,22 @@ h1 {
 h2 {
   font-family: 'Poppins', sans-serif;
   font-weight: bold;
+}
+.about-section h1{
+  font-size: 64px;
+  line-height: 80px;
+}
+.about-section h2 {
+  font-size: 32px;
+  
+}
+.about-section {
+  padding: 20px 20px;
+}
+.about-section-content {
+margin: 30px;
+}
+
+img {
+  border-radius: 4px;
 }
