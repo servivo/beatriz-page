@@ -31,6 +31,18 @@
   color: white;
   
 }
+.launch-research {
+   border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  color: var(--primary-color);
+  border: 1px solid var(--primary-color);
+  box-shadow: var(--box-shadow);
+}
+.launch-research:hover {
+  color: #EDDCD2;
+}
 .launch-app:hover{
   color: #EDDCD2;
 }
@@ -131,6 +143,9 @@ h2 {
 .about-section h2 {
   font-size: 32px;
   
+}
+.about-section h4 {
+  font-size: 36px;
 }
 .about-section {
   padding: 20px 20px;
