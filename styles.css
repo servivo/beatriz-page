@@ -62,7 +62,7 @@ p {
   font-size: 18px;
   line-height: 30px;
   text-align: center;
-  font-family: 'Poppins', sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif
 }
 .homepage-link {
   color: var(--primary-color);
@@ -115,7 +115,7 @@ h4, h5, h6 {
 h3 {
   text-align: center;
   margin: 0;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Times New Roman', sans-serif;
 }
 h1 {
   font-family: 'Garamond', serif;
@@ -124,24 +124,40 @@ h2 {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: bold;
 }
-.content-container h1{
+.about-section h1{
   font-size: 64px;
   line-height: 80px;
 }
-.content-container h2 {
+.about-section h2 {
   font-size: 32px;
   
 }
-.content-container {
+.about-section {
   padding: 20px 20px;
 }
-.content {
+.about-section-content {
 margin: 30px;
 }
 
 img {
   border-radius: 4px;
 }
-p {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+
+.work-section h1 {
+  font-size: 64px;
+  line-height: 80px;
+}
+
+.work-section h5 {
+  font-size: 30px;
+  color: black;
+  font-family: 'Garamond', serif;
+  margin-bottom: 0px;
+}
+
+.work-section h6 {
+  font-size: 20px;
+  
+  margin-top: 0px;
+  
 }
