@@ -176,3 +176,11 @@ img {
   margin-top: 0px;
   
 }
+.about-section p a {
+  text-decoration: none;
+  color: var(--primary-color);
+}
+.about-section p a:hover {
+  text-decoration: underline;
+  color: var(--secondary-color);
+}
