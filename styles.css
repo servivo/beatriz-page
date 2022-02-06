@@ -109,36 +109,39 @@ h2
 }
 h4, h5, h6 {
   font-size: 48px;
-   font-family: 'Playfair Display', serif;
+   font-family: 'Garamond', serif;
   
 }
 h3 {
   text-align: center;
   margin: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h1 {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Garamond', serif;
 }
 h2 {
-  font-family: 'Poppins', sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: bold;
 }
-.about-section h1{
+.content-container h1{
   font-size: 64px;
   line-height: 80px;
 }
-.about-section h2 {
+.content-container h2 {
   font-size: 32px;
   
 }
-.about-section {
+.content-container {
   padding: 20px 20px;
 }
-.about-section-content {
+.content {
 margin: 30px;
 }
 
 img {
   border-radius: 4px;
+}
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
