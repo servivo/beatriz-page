@@ -192,3 +192,8 @@ img {
   text-decoration: underline;
   color: var(--secondary-color);
 }
+
+.bg-light {
+    --bs-bg-opacity: 0.5;
+    background-color: #EDDCD2 !important;
+}
