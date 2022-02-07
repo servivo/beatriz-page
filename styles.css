@@ -196,11 +196,8 @@ img {
 .bg-light {
     --bs-bg-opacity: 0.5;
     background-color: #EDDCD2 !important;
-     font-family: Garamond;
-     font-weight: 600;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-weight: 300;
      font-size: larger;
      text-emphasis-color: #EDDCD2;
-}
-.body {
-  font-family: Garamond;
 }
