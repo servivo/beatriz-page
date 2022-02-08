@@ -72,12 +72,12 @@
 }
 p {
   background: white;
-  padding: 20px;
+  
   border-radius: 4px;
   font-size: 18px;
   line-height: 30px;
-  text-align: center;
-  font-family: Georgia, 'Times New Roman', Times, serif
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
 }
 .homepage-link {
   color: var(--primary-color);
@@ -200,4 +200,12 @@ img {
      font-weight: 300;
      font-size: larger;
      text-emphasis-color: #EDDCD2;
+}
+.link-index {
+  text-decoration: none;
+  color: var(--primary-color);
+}
+.link-index:hover {
+text-decoration: underline;
+  color: var(--secondary-color);
 }
