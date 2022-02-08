@@ -209,3 +209,16 @@ img {
 text-decoration: underline;
   color: var(--secondary-color);
 }
+
+.contact-section p a {
+  color: var(--primary-color);
+  font-weight: 200;
+}
+.contact-section p a:hover {
+  color: var(--secondary-color);
+}
+.contact-section p {
+  font-weight: bold;
+  font-size: 26px;
+  text-align: center;
+}
