@@ -100,7 +100,7 @@ h1 {
 }
 @media (max-width: 576px) {
   h1 {
-    font-size: 40px;
+    font-size: 34px;
     line-height: 1.5;
   }
   h2 {
@@ -112,7 +112,7 @@ h1 {
     text-align: left;
   }
   h3, h4, h5, h6 {
-    font-size: 18px;
+    font-size: 26px;
   }
 }
 
