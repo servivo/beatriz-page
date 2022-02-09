@@ -99,25 +99,7 @@ h1 {
   font-size: 96px;
 }
 @media (max-width: 700px) {
-  h1, h1.mb-4 {
-    font-size: 40px;
-  }
-  h6 {
-    font-size: 23px;
-    
-  }
-  h2 {
-    font-size: 20px;
-  }
-  h3 {
-    font-size: 22px;
-  }
-  h4 {
-    font-size: 24px;
-  }
-  h5, h5.text-center {
-    font-size: 24px;
-  }
+
 
   
   
