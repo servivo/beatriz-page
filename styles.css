@@ -111,15 +111,15 @@ h1 {
  p {
     text-align: left;
   }
+  h3, h4, h5, h6 {
+    font-size: 26px;
+  }
 }
-h2 {
-  font-size: 48px;
-  
-}
+
 h3 {
   font-size: 24px;
   opacity: 0.7;
-}
+} 
 h1,
 h2
  {
