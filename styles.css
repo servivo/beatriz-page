@@ -104,13 +104,13 @@ h1 {
   }
   h6 {
     font-size: 23px;
-    line-height: 1.5;
+    
   }
   h2 {
     font-size: 20px;
   }
   h3 {
-    font-size: 28px;
+    font-size: 22px;
   }
   h4 {
     font-size: 24px;
@@ -118,9 +118,7 @@ h1 {
   h5 {
     font-size: 24px;
   }
-  h6 {
-    font-size: 24px;
-  }
+
   
   
  p {
