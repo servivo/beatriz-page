@@ -38,6 +38,17 @@
     display: flex;
     
   }
+  .research-list {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .research-list a {
+    text-decoration: none;
+    color: black;
+  }
+  .research-list a:hover {
+    color: var(--secondary-color);
+    text-decoration: underline;
+  }
   .container-icons {
     
   
