@@ -38,6 +38,13 @@
     display: flex;
     
   }
+  .container-icons {
+    
+  
+    
+    justify-content: center;
+    border-radius: 4px;
+}
   .coding-knowledge {
     display: flex;
     flex-direction: row;
@@ -94,7 +101,7 @@
   margin: 10px;
 }
 p {
-  background: white;
+  
   
   border-radius: 4px;
   font-size: 18px;
