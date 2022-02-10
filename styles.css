@@ -33,6 +33,28 @@
 
   
 }
+
+  .list-group {
+    display: flex;
+    
+  }
+  .coding-knowledge {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style-type: none;
+    font-size: 22px;
+    padding-top: 15px;
+    }
+  .coding-language{
+    border: solid 3px;
+    border-radius: 8px;
+    padding: 4px 8px 2px 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+    border-color: var(--secondary-color);
+  justify-content: space-evenly;}
+
 .launch-research {
    border-radius: 4px;
   padding: 20px 15px;
